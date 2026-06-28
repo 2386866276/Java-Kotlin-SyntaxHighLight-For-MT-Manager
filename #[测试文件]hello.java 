@@ -1,0 +1,22 @@
+package demo;
+
+public class Hello {
+    private String name;
+
+    public Hello() {
+        this.name = "Java";
+    }
+
+    public Hello(String name) {
+        this.name = name;
+    }
+
+    public String sayHello() {
+        return "Hello, " + name + "!";
+    }
+
+    public static void main(String[] args) {
+        Hello hello = new Hello("World");
+        System.out.println(hello.sayHello());
+    }
+}
