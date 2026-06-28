@@ -1,11 +1,36 @@
-# 系统文件
-.DS_Store
-Thumbs.db
-desktop.ini
+# ===================================
+# Java-Kotlin-SyntaxHighLight-For-MT-Manager
+# https://github.com/2386866276
+# ===================================
 
-# 编辑器临时文件
+# -------- Operating System Generated Files --------
+.DS_Store        # macOS
+Thumbs.db        # Windows
+desktop.ini      # Windows
+
+# -------- Editor / IDE Configuration --------
 *.swp
 *.swo
 *~
 .vscode/
 .idea/
+*.iml
+.project
+.settings/
+.classpath
+
+# -------- Temporary / Log Files --------
+*.tmp
+*.bak
+*.log
+*.orig
+
+# -------- 本仓库说明 / 本倉庫說明 / Repository Note --------
+# [简体中文] 本项目仅包含 .mtsx 语法高亮文件及文档，
+# 无编译产物，无第三方依赖，无需额外忽略规则。
+#
+# [繁體中文] 本專案僅包含 .mtsx 語法高亮檔案及文檔，
+# 無編譯產物，無第三方依賴，無需額外忽略規則。
+#
+# [English] This repository contains only .mtsx syntax files and documentation.
+# No build artifacts, no third-party dependencies — no additional rules required.
