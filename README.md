@@ -1,6 +1,6 @@
 # Java-Kotlin-SyntaxHighLight-For-MT-Manager
 
-**作者：**[2386866276](https://github.com/2386866276)  
+**作者：**[林映雪](https://github.com/2386866276)  
 **许可证：** Apache-2.0  
 
 **English** | [简体中文](#简体中文) | [繁體中文（港澳臺）](#繁體中文港澳臺)
